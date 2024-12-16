@@ -1,4 +1,4 @@
-# final-thesis-test-app
+# 3-tier-test-app
 This app is used to measure performance of Custom Kubernetes scheduler with machine learning.
 All three components are containerized.
 
